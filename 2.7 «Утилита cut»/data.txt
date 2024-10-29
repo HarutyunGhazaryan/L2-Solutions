@@ -1,0 +1,4 @@
+date,temperature,condition
+2024-10-01,22,Clear
+2024-10-02,18,Cloudy
+2024-10-03,15,Rainy
